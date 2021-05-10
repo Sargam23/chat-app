@@ -160,6 +160,10 @@ button:disabled {
 .compose button {
     font-size: 14px;
 }
+#joinbtn{
+    border-radius: 50px;
+}
+
 
 /* Chat Sidebar Styles */
 
